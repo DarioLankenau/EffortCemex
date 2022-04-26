@@ -123,6 +123,7 @@
 </main>
   
 <div class="triangle"></div>
+<div class="triangle2"></div>
 
 <style>
 
